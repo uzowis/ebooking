@@ -710,7 +710,7 @@ $query_room = mysqli_query($db, "SELECT * FROM room");
         <script type="text/javascript" src="js/jquery.min.js"></script>
         <script type="text/javascript" src="js/plugins.js"></script>
         <script type="text/javascript" src="js/scripts.js"></script>
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDBV8-quQ74wYUV0NyRA05rcxDTUQiOqCE&libraries=places&callback=initAutocomplete"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key="YOURKEY"&libraries=places&callback=initAutocomplete"></script>
         <script type="text/javascript" src="js/map-single.js"></script>
 <!-- GetButton.io widget -->
 <script type="text/javascript">
